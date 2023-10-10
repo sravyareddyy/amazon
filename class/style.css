@@ -249,6 +249,9 @@ ul p{
 }
 .pages
 {
+    padding-top: 10px;
+    text-align: center;
+
     font-size: 0.75rem;
 }
 .copyrights
